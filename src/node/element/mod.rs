@@ -230,6 +230,9 @@ implement! {
     #[doc = "A [`textPath`](https://www.w3.org/TR/SVG/text.html#TextPathElement) element."]
     struct TextPath
 
+    #[doc = "A [`tspan`](https://www.w3.org/TR/SVG/text.html#TextElement) element."]
+    struct TSpan
+
     #[doc = "A [`title`](https://www.w3.org/TR/SVG/struct.html#TitleElement) element."]
     struct Title
 
